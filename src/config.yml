@@ -1,0 +1,11 @@
+cpu:
+  enabled: true
+  threshold: 80
+ram:
+  enabled: false
+  threshold: 80
+disk:
+  enabled: false
+  paths:
+    - /dev/sda
+    - /dev/sdb
